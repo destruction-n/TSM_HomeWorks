@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Raleway&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-block{
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-text{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    padding: 54px 0;
+}
+.additional-text{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+.container-text{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    background: #E2E2E2;
+    border-radius: 10px;
+    padding-top: 38px;
+    padding-bottom: 37px;
+    text-align: center;
+}
+.name{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+}
+.job-title{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+.line{
+    border: 1px solid #EC7979;
+    width: 170px;
+}
+.additional-text{
+    margin: 40px 0 83px 0;
+
+}
+.containers{
+    width: 1170px;
+    display: flex;
+    margin: 0 -15px;
+    margin-bottom: 46px;
+}
+.container{
+    width: 33.3%;
+    padding: 0 15px;
+    
+
+}
+.people-information{
+    display: flex;
+    margin: 0 -15px;
+    
+}
+.people-container{
+    width: 33.3%;
+    
+    padding: 0 15px;
+}
+.triangle {
+	
+	width: 0;
+	height: 0;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	border-top: 20px solid #E2E2E2;
+    margin-left: 70px;
+}
+.people-container{
+    display: flex;
+}
+.people-name-qual{
+    margin-left: 30px;
+}
+.name{
+    padding: 10.5px 0;
+    
+}
+.job-title{
+    margin-top: 15px;
+}
+
