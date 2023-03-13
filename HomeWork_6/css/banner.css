@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     list-style-type: none;
+    text-decoration: none;
 }
 section{
     display: flex;
@@ -15,9 +16,7 @@ section{
     
    
 }
-.banner{
-    margin-bottom: 100px;
-}
+
 .box-banner{
     
     position: relative;
@@ -27,6 +26,9 @@ section{
     background-repeat: no-repeat;
     
     
+}
+a{
+    color: #fff;
 }
 .box-banner::before{
     position: absolute;

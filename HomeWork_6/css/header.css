@@ -15,27 +15,33 @@
 }
 .header-sections{
     display: flex;
-    margin-right: 170px;
+    margin-right: 171.11px;
     
 }
+.logo-name{
+    width: 183.1px;
+}
 .header-section{
-    padding: 27.955px 29.42px;
+    
+    width: 113.8px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
     line-height: 19px;
-    color:#fff
-
+    
 }
 .box-header{
     display: flex;
     background: #000000;
     align-items: center;
-    width: 1510px;
+    
     
 }
 .logo-name{
-    margin-right: 567.91px;
+    margin-right: 471.62px;
     margin-left : 115.28px;
+}
+.icon-marg{
+    margin-right: 32.8px;
 }
